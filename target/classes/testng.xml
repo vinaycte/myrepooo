@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "zoho crm automation ">
+<test name ="crm automation test cases">
+<classes>
+         <class name ="com.zohocrm.testcases.Contactstest"></class>
+           <class name ="com.zohocrm.testcases.Homepagetest"></class>
+             <class name ="com.zohocrm.testcases.Loginpagetest"></class>
+
+ </classes>
+ </test>
+ </suite>
+             
